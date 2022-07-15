@@ -1,0 +1,3 @@
+- use custom hooks to send http requests and to maintain the state #TA-01
+- how to type useRef #TA02
+- how to use useCallback #TA03
